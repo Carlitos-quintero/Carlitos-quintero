@@ -181,25 +181,19 @@ Cuento con formación en Programación de Software en el Politécnico PIO, donde
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-	<a style="margin-left: 10px;"  target="_blank" href="https://github.com/lozadandres">
+	<a style="margin-left: 10px;"  target="_blank" href="https://github.com/Carlitos-quintero">
 		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 	</a>
-        <a style="margin-left: 10px;" target="_blank" href="mailto:lozadaandres955@gmail.com">
+        <a style="margin-left: 10px;" target="_blank" href="mailto:quinterobecerracarlosandres3@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/andr%C3%A9s-felipe-lozada-manzano-0b9ba31b0/">
+        <a style="margin-left: 10px;" target="_blank" href="www.linkedin.com/in/carlos-andres-quintero-becerra-0809022b4">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/1270558508030492704">
-		<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-	</a>
-	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@ANDRESFELIPELOZADAMANZANO">
+	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@carlosquintero4552">
 		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 	</a>
-	<a style="margin-left: 5px;" target="_blank" href="https://x.com/LozadaManzano">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-	</a>
-	 <a style="margin-left: 5px;" target="_blank" href="https://www.instagram.com/andres_felipe_lozada_manzano/">
+	 <a style="margin-left: 5px;" target="_blank" href="https://www.instagram.com/pianiquintero/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 	</a>
  </div>
