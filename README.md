@@ -120,14 +120,14 @@ Cuento con formación en Programación de Software en el Politécnico PIO, donde
   
   <tr>
     <td width="1100" valign="top">
-      <h3 align="center">Ecomerce_Game-master</h3>
+      <h3 align="center">Ecomerce_Game</h3>
         <br />
-        <a target="_blank" href="#">
-         <img src="https://github.com/lozadandres/MathSolver_AI/blob/master/frontend/public/Captura%201.png" width="100%" height="500" alt="App"/>   
+        <a target="_blank" href="https://github.com/Carlitos-quintero/Ecomerce_Game-V.3">
+         <img src="https://github.com/Carlitos-quintero/Ecomerce_Game-V.3/blob/main/frontend/public/Catalogo.jpeg" width="100%" height="500" alt="App"/>   
         </a>
         <br />
         <p align="center">
-		<a href="https://github.com/Carlitos-quintero/ecomerce.v2" target="_blank">
+		<a href="https://github.com/Carlitos-quintero/Ecomerce_Game-V.3" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 		</a>  
       </p>
