@@ -167,22 +167,6 @@ Cuento con formación en Programación de Software en el Politécnico PIO, donde
 		</a>
       </p>
     </td>
-    <td width="1100" valign="top">
-        <br />
-        <a target="_blank" href="#">
-            <img src="https://raw.githubusercontent.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulua/refs/heads/main/Juego%20Retro%20Super%20Snake%20con%20POO%20en%20Python/assets/imagenes/339798857-8c91a017-07e7-4b06-80ed-949593fe2820.jpeg" width="100%" height="200" alt="App"/>
-        </a>
-	<h3 align="center">Juego Retro Super Snake</h3>
-        <br />
-        <p align="center">
-		<a href="https://github.com/lozadandres/Juego-Retro-Super-Snake-con-POO-en-Python---Univalle-Tulua" target="_blank">
-			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-		</a> 
-		<a target="_blank" href="https://youtu.be/idIFjqdug3U">
-			<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-	        </a>
-      </p>
-    </td>
   </tr>
   
 </table>
