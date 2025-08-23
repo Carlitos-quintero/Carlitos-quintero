@@ -144,7 +144,8 @@ Cuento con formación en Programación de Software en el Politécnico PIO, donde
         <a target="_blank" href="https://github.com/Carlitos-quintero/Crud_Java_MVC">
             <img src="https://github.com/Carlitos-quintero/Crud_Java_MVC/blob/main/Captura1.png" width="100%" height="200" alt="App"/>
         </a>
-	<h3 align="center">App Gestión de Eventos</h3>
+	<h3 align="center">Crud_Java_MVC
+</h3>
         <br />
         <p align="center">
 		<a href="https://github.com/Carlitos-quintero/Crud_Java_MVC" target="_blank">
