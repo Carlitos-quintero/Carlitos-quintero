@@ -154,16 +154,14 @@ Cuento con formación en Programación de Software en el Politécnico PIO, donde
     </td>
     <td width="1100" valign="top">
         <br />
-        <a target="_blank" href="#">
-            <img src="https://github.com/lozadandres/Tienda-epicPlay-store-V4--frontend/blob/main/public/Captura%202.jpeg" width="100%" height="200" alt="App"/>
+        <a target="_blank" href="https://github.com/Carlitos-quintero/Proyecto_Final_-Juego_Nave_POO_en_Python">
+            <img src="https://private-user-images.githubusercontent.com/162009611/339096748-21526068-a848-4cb1-8ca2-36b547155316.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU5ODQwNTIsIm5iZiI6MTc1NTk4Mzc1MiwicGF0aCI6Ii8xNjIwMDk2MTEvMzM5MDk2NzQ4LTIxNTI2MDY4LWE4NDgtNGNiMS04Y2EyLTM2YjU0NzE1NTMxNi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyM1QyMTE1NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ODQzMjNjMGQ2OTJiYzQxNzA2ODNiNjcyYzJjZmU4OGU2NDBiM2NmM2E1ZTc3MGFkNTIzZDY4YjdlYmIyNDQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ammboCY_SlErcxVc2D9GdROd8qyPWViNBc1GBdNXwQo" width="100%" height="200" alt="App"/>
         </a>
-	<h3 align="center">EpicPlay Store</h3>
+	<h3 align="center">Juego Nave POO en Python
+</h3>
         <br />
         <p align="center">
-		<a href="https://github.com/lozadandres/Tienda-epicPlay-store-V4--frontend" target="_blank">
-			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-		</a>
-		<a href="https://github.com/lozadandres/Tienda-epicPlay-store-V4-backend" target="_blank">
+		<a href="https://github.com/Carlitos-quintero/Proyecto_Final_-Juego_Nave_POO_en_Python" target="_blank">
 			<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 		</a>
       </p>
