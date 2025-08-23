@@ -187,7 +187,7 @@ Cuento con formación en Programación de Software en el Politécnico PIO, donde
         <a style="margin-left: 10px;" target="_blank" href="mailto:quinterobecerracarlosandres3@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-        <a style="margin-left: 10px;" target="_blank" href="www.linkedin.com/in/carlos-andres-quintero-becerra-0809022b4">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/carlos-andres-quintero-becerra-0809022b4/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@carlosquintero4552">
